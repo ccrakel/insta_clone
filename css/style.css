@@ -1,0 +1,25 @@
+body{
+    background: #fafafa;
+}
+
+.icon_insta_logo{
+    background: url('../img/logo.png') no-repeat -47px -47px;
+    width: 205px;
+    height: 205px;
+}
+#header{
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 999;
+    background: white;
+    border-bottom: 1px solid rgba(0,0,0,0.1);
+
+}
+
+#header .inner{
+    width: 975px;
+    height: 77px;
+    margin: 0 auto;
+}
